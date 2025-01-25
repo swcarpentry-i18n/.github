@@ -16,5 +16,5 @@ Language Coordinators are community members who have volunteered to coordinate l
 - [README](FIXME)
 
 ### Ukrainian
-- Language Coordinator(s): 
+- Language Coordinator(s): [Olexandr Konovalov](https://olexandr-konovalov.github.io/)
 - [README](FIXME)
